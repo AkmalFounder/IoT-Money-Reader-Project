@@ -10,7 +10,7 @@ from playsound import playsound
 from gtts import gTTS
 
 
-def playaudio(suara):
+def playaudio(audio):
     playsound(audio):
 
 def uang_matching():
